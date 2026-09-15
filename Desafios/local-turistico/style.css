@@ -50,8 +50,6 @@ main, header {
     margin-left: 290px;
 }
 
-
-
 ol li::marker {
     font-weight: bold;
     font-size: 32px;
@@ -129,7 +127,6 @@ footer {
     text-transform: uppercase;
     color: #e1624f;
 }
-
 
 .divider {
     width: 100%;
